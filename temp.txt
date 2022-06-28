@@ -3,6 +3,5 @@ temp file
 1)remote
 1) local
 
-feature2
-feature3
-
+feature 1
+feature 2
