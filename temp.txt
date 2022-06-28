@@ -2,4 +2,6 @@ temp file
 
 1)remote
 1) local
+
 feature 1
+feature 2
